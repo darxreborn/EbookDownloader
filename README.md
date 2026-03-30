@@ -1,5 +1,5 @@
 # EbookDownloader
-A tool to download purchased e-books from different publishers.
+A tool to download purchased e-books from different publishers. Test Stuff
 
 ![Preview](preview.png)
 
